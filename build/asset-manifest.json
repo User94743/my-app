@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/User94743/lalala.git/static/css/main.fe2c1368.chunk.css",
+    "main.js": "/User94743/lalala.git/static/js/main.41d3da9a.chunk.js",
+    "main.js.map": "/User94743/lalala.git/static/js/main.41d3da9a.chunk.js.map",
+    "runtime-main.js": "/User94743/lalala.git/static/js/runtime-main.066d4ae5.js",
+    "runtime-main.js.map": "/User94743/lalala.git/static/js/runtime-main.066d4ae5.js.map",
+    "static/css/2.1cf03e63.chunk.css": "/User94743/lalala.git/static/css/2.1cf03e63.chunk.css",
+    "static/js/2.cce307a8.chunk.js": "/User94743/lalala.git/static/js/2.cce307a8.chunk.js",
+    "static/js/2.cce307a8.chunk.js.map": "/User94743/lalala.git/static/js/2.cce307a8.chunk.js.map",
+    "static/js/3.0924193b.chunk.js": "/User94743/lalala.git/static/js/3.0924193b.chunk.js",
+    "static/js/3.0924193b.chunk.js.map": "/User94743/lalala.git/static/js/3.0924193b.chunk.js.map",
+    "index.html": "/User94743/lalala.git/index.html",
+    "static/css/2.1cf03e63.chunk.css.map": "/User94743/lalala.git/static/css/2.1cf03e63.chunk.css.map",
+    "static/css/main.fe2c1368.chunk.css.map": "/User94743/lalala.git/static/css/main.fe2c1368.chunk.css.map",
+    "static/js/2.cce307a8.chunk.js.LICENSE.txt": "/User94743/lalala.git/static/js/2.cce307a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066d4ae5.js",
+    "static/css/2.1cf03e63.chunk.css",
+    "static/js/2.cce307a8.chunk.js",
+    "static/css/main.fe2c1368.chunk.css",
+    "static/js/main.41d3da9a.chunk.js"
+  ]
+}
