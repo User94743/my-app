@@ -2,7 +2,7 @@
   "name": "my-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/User94743/test.git",
+  "homepage": "https://github.com/User94743/extest.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
